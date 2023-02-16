@@ -30,3 +30,23 @@ p{
     font-family: 'Cookie', cursive;
     font-size: 30px;
 }
+.categories-wa{
+    background-color: #9489b4;
+    border-radius: 10px;
+}
+.categories-ba{
+    background-color: rgb(180, 147, 115);
+}
+.categories-sh{
+    background-color: rgb(175, 108, 130);
+}
+.categories-wa, .categories-ba, .categories-sh{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categorise h1{
+    color: #feeae9;
+}
+.categories img{
+    width: 100px;
+}
