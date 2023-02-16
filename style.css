@@ -1,0 +1,32 @@
+.orange-bg{
+    background-color: #feeae9;
+    border-radius: 10px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.h1-colors{
+    color: #3f031a;
+    font-family: 'Lobster', cursive;
+}
+.buy-now-bt{
+    background-color: #ff136f;
+    color: aliceblue;
+    border-radius: 7px; 
+    border: none; 
+    padding: 5px 15px;  
+}
+.price{
+    color: #ff136f;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+li{
+    font-family: 'Satisfy', cursive;
+    color: rgb(44, 43, 40);
+}
+p{
+    font-family: 'Cookie', cursive;
+    font-size: 30px;
+}
