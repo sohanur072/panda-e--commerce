@@ -8,7 +8,6 @@
 }
 .h1-colors{
     color: #3f031a;
-    font-family: 'Lobster', cursive;
 }
 .buy-now-bt{
     background-color: #ff136f;
@@ -24,11 +23,9 @@
     padding: 20px 40px;
 }
 li{
-    font-family: 'Satisfy', cursive;
     color: rgb(44, 43, 40);
 }
-p{
-    font-family: 'Cookie', cursive;
+p{    
     font-size: 30px;
 }
 .categories-wa{
@@ -53,8 +50,7 @@ p{
     width: 100px;
 }
 h4{
-    color: #3f031a;
-    font-family: 'Lobster', cursive;    
+    color: #3f031a;  
 }
 .card{
     border: none;
@@ -66,8 +62,7 @@ h4{
 #subscribe h6{
     color: gray;
 }
-#subscribe h3{
-    font-family: 'Lobster', cursive; 
+#subscribe h3{    
     color: orange;       
 }
 footer{
