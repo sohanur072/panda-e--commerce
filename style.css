@@ -1,6 +1,7 @@
 .orange-bg{
     background-color: #feeae9;
     border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(206, 192, 148);
 }
 .container{
     margin-bottom: 100px;
@@ -43,10 +44,32 @@ p{
 .categories-wa, .categories-ba, .categories-sh{
     padding: 10px 30px;
     border-radius: 10px;
+    box-shadow: 10px 10px 20px rgb(67, 56, 71);
 }
 .categorise h1{
     color: #feeae9;
 }
 .categories img{
     width: 100px;
+}
+h4{
+    color: #3f031a;
+    font-family: 'Lobster', cursive;    
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 20px rgb(105, 104, 103);
+}
+#subscribe{
+    height: 350px;
+}
+#subscribe h6{
+    color: gray;
+}
+#subscribe h3{
+    font-family: 'Lobster', cursive; 
+    color: orange;       
+}
+footer{
+    text-align: center;
 }
